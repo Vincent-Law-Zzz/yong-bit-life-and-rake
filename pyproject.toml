@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "yong-bit-life-and-rake"
+version = "0.1.0"
+description = "young-bit 23 life-and-rake"
+authors = ["Vincent Law <bonchev7724@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.92.0"
+aiopg = "^1.4.0"
+httpx = "^0.23.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
