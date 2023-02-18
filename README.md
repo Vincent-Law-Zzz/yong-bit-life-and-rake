@@ -1,2 +1,2 @@
-# yong-bit-life-and-rake
+# young-bit-life-and-rake
 Lets try to make anything cool
